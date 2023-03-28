@@ -1,0 +1,12 @@
+{
+  "name": "onebitflix",
+  "version": "1.0.0",
+  "description": "Projeto completo desenvolvido para prática e aprendizado",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Gustavo Andrade Medeiros",
+  "license": "ISC"
+}
